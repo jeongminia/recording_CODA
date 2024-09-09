@@ -6,7 +6,7 @@
 
 
 -----
-전반적인 Full Flow를 보고 싶다면 아래 링크를 참고해주세요.
+Full Flow를 보고 싶다면 아래 링크를 참고해주세요.
 - https://github.com/StoneMaenggu
 - https://www.skttechacademy.com/nonmember/flyAi/flyAiProjectReviewDetail
 
