@@ -1,6 +1,7 @@
 # Modeling
-본 프로젝트에서 AI Modeling part 중 Gloss2Text를 맡아 진행했습니다.
+AI Modeling part 중 Gloss2Text를 맡아 진행했습니다.
 
+![SKT FLY AI  돌맹구 프로젝트_fin](https://github.com/user-attachments/assets/edf01154-1efb-4a12-b321-659af9b04404)
 
 
 
